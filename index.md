@@ -1,3 +1,7 @@
+---
+title: Build Tools: Macro reference
+---
+
 # Build Tools: Macro reference
 
 ## Core macros

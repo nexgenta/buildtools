@@ -1,8 +1,7 @@
 ---
-title: Build Tools: Macro reference
+title: Macro reference
+layout: default
 ---
-
-# Build Tools: Macro reference
 
 ## Core macros
 
